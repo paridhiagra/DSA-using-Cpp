@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
 
-void changeA(int *ptr){  // pass by refence using pointer
+void changeA(int *ptr){  // pass by reference using pointer
     *ptr = 20;
 }
 
-void changea(int &b){  // pass by refence using alias
+void changea(int &b){  // pass by reference using alias
     b = 30;
 }
 

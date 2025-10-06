@@ -10,7 +10,7 @@ public:
             }else if(arr[mid - 1] < arr[mid]){  // right
                 st = mid + 1;
             }else{  // left
-                end = mid + 1;
+                end = mid - 1;
             }
         }
         return -1;

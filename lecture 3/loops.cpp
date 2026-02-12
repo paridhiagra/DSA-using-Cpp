@@ -94,5 +94,19 @@ int main(){
     }
     cout << endl;
 
+    // sum of all numbers from 1 to n which are divisible by 3
+
+    int n5, total = 0;
+    cout << "Enter a number: ";
+    cin >> n5;
+
+    for(int x = 1; x <= n5; x++){
+        if(x % 3 == 0){
+            total = total + x;
+        }
+    }
+
+    cout << "Total: " << total << endl;
+
     return 0;
 }

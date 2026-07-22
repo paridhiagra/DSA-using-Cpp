@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
+| [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,4 +48,16 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
@@ -45,6 +46,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
@@ -86,5 +89,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->

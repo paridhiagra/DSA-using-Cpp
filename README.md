@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Backtracking
@@ -40,6 +41,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |

@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0443-string-compression) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |

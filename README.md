@@ -24,6 +24,7 @@
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0443-string-compression](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -130,5 +133,6 @@
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->

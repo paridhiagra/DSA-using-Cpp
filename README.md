@@ -73,6 +73,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -120,10 +122,12 @@
 ## Tree
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -132,6 +136,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -154,4 +159,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

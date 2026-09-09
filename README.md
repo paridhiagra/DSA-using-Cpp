@@ -91,6 +91,7 @@
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3871-count-commas-in-range-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |

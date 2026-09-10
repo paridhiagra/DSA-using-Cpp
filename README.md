@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
@@ -149,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree

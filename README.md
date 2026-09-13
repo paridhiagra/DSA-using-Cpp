@@ -12,6 +12,7 @@
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
+| [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -174,4 +175,8 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->

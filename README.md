@@ -13,6 +13,7 @@
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -94,6 +95,7 @@
 | [0168-excel-sheet-column-title](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3871-count-commas-in-range-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3871-count-commas-in-range-ii) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,4 +182,12 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

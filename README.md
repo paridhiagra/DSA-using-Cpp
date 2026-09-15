@@ -44,6 +44,7 @@
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -61,6 +62,7 @@
 | [0198-house-robber](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

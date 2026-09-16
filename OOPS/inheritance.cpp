@@ -1,0 +1,43 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
+class Person{
+public: 
+    string name;
+    int age;
+
+    Person(string name, int age){
+        this -> name = name;
+        this -> age = age;
+    }
+
+    // Person(){
+    //     cout << "Parent constructor\n";
+    // }
+
+};
+
+// name, age, rollNo.
+class Student: public Person{
+public:
+    int rollNo;
+
+    Student(string name, int age, int rollNo) : Person(name, age){
+        this -> rollNo = rollNo;
+        // cout << "Child constructor\n";
+    }
+
+    void getInfo(){
+        cout << "Name: " << name << endl;
+        cout << "Age: " << age << endl;
+        cout << "Roll No: " << rollNo << endl;
+    }
+};
+
+int main(){
+    Student s1("Paridhi", 20, 101);
+    s1.getInfo();
+
+    return 0;
+}

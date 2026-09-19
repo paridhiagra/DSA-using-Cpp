@@ -105,6 +105,7 @@
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

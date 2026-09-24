@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
@@ -199,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 ## Design
 |  |

@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0168-excel-sheet-column-title) |
@@ -78,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

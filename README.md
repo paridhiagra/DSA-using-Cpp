@@ -24,6 +24,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0039-combination-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -41,6 +42,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0168-excel-sheet-column-title) |
@@ -62,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0063-unique-paths-ii) |
@@ -230,4 +233,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

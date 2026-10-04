@@ -52,6 +52,7 @@
 | [0443-string-compression](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -75,6 +76,7 @@
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
@@ -238,4 +242,5 @@
 | [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

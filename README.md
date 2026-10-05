@@ -53,6 +53,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -89,6 +90,7 @@
 | [0020-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0856-score-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -243,4 +245,5 @@
 | [0022-generate-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

@@ -55,6 +55,7 @@
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -92,6 +93,7 @@
 | [0032-longest-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -193,6 +195,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
@@ -248,4 +251,5 @@
 | [0032-longest-valid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

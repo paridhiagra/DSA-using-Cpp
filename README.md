@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0039-combination-sum) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
@@ -147,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |

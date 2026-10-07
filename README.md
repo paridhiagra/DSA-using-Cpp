@@ -28,6 +28,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0516-longest-palindromic-subsequence) |
@@ -218,6 +220,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |

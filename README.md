@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,6 +72,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -184,6 +186,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |

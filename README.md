@@ -22,6 +22,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3525-find-x-value-of-array-ii) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |

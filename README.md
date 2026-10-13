@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -43,6 +44,7 @@
 | [0016-3sum-closest](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
@@ -200,6 +203,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -287,4 +291,12 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

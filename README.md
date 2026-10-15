@@ -18,6 +18,7 @@
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -93,6 +94,7 @@
 | [0070-climbing-stairs](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -308,4 +311,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

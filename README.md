@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
+| [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
@@ -229,6 +231,7 @@
 | [0035-search-insert-position](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0287-find-the-duplicate-number) |
+| [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -275,6 +278,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Breadth-First Search

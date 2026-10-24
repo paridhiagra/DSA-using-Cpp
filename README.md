@@ -83,6 +83,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -164,6 +165,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2409-count-days-spent-together) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3525-find-x-value-of-array-ii) |

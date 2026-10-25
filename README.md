@@ -21,6 +21,7 @@
 | [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 | [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -291,11 +293,13 @@
 | [0301-remove-invalid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
@@ -357,6 +361,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |

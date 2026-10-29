@@ -22,6 +22,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
+| [1049-last-stone-weight-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -116,6 +117,7 @@
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0678-valid-parenthesis-string) |
+| [1049-last-stone-weight-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -373,6 +375,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -391,4 +394,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->

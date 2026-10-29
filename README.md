@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -308,6 +311,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |

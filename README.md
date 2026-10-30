@@ -94,6 +94,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -403,4 +405,12 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1049-last-stone-weight-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->

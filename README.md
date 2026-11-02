@@ -21,6 +21,7 @@
 | [0322-coin-change](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 | [1049-last-stone-weight-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1049-last-stone-weight-ii) |
@@ -176,6 +177,7 @@
 | [0168-excel-sheet-column-title](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2333-minimum-sum-of-squared-difference) |

@@ -38,6 +38,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -132,6 +133,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -161,6 +163,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -171,6 +174,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +192,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2409-count-days-spent-together) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -377,6 +382,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Pigeonhole Principle
 |  |

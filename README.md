@@ -27,6 +27,7 @@
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 | [1049-last-stone-weight-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -270,6 +271,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -344,6 +346,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -351,6 +354,7 @@
 | [0063-unique-paths-ii](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -422,6 +426,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Fermat's Little Theorem
@@ -441,4 +446,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/paridhiagra/DSA-using-Cpp/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
